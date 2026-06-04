@@ -1,0 +1,3 @@
+1. We have build the docker and pushed that image into docker hub
+2. use that images and build kubernetes namespace, services, frontend-deploy, backend-deploy, mongodb-deploy
+    and ingress
